@@ -1,4 +1,4 @@
-const CACHE_NAME = 'molham-dashboard-v271';
+const CACHE_NAME = 'molham-dashboard-v272';
 
 // الأصول والملفات المطلوبة للتخزين حتى يعمل الموقع بدون إنترنت
 const ASSETS_TO_CACHE = [
@@ -18,7 +18,7 @@ const ASSETS_TO_CACHE = [
   './pong.html?v=5',
   './pong.css?v=4',
   './pong.js?v=4',
-  './manifest.json?v=12',
+  './manifest.json?v=13',
   './gnome-books.png',
   './amiri-400.ttf',
   './amiri-700.ttf',
