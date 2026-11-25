@@ -570,7 +570,7 @@ input[type="color"]::-moz-color-swatch { border: none !important; border-radius:
     }
 
     .stat-item .stat-value {
-        font-size: 24px !important; /* تصغير طفيف لأرقام حلم التخرج */
+        font-size: 24px !important; /* تصغير طفيف لأرقام العد التنازلي */
     }
 
     .energy-item {
